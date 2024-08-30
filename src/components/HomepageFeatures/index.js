@@ -22,7 +22,7 @@ export default function HomepageFeatures() {
       <div className="container" style={paragrafo}>
         {/* Adicionando o novo recurso "Alo mundo" diretamente */}
         <div className="row" >
-            <p>Olá! Sou Parahuari Branco, especialista em tecnologia e educação. 
+            <p>
             Quero dar boas-vindas ao <b>IA Estratégica: <i>guia essencial para CEOs e Líderes</i></b>. 
             Meu objetivo com este guia é desmistificar a Inteligência Artificial, de forma objetiva, acessível e abrangente, 
             demonstrando como ela pode se tornar uma peça fundamental na estratégia da sua organização.</p>
