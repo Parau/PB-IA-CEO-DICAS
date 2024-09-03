@@ -1,10 +1,15 @@
 ---
 sidebar_position: 6
 ---
-# Perguntas essenciais
-No fluxo de implementação da IA existe um item chamado Perguntas Essenciais.
+import LigaHighlight from '@site/src/components/gsap/highlight'
 
-Para filtrar as ideias levantadas para o uso da IA na empresa, é essencial que CEOs e líderes executivos façam uma análise criteriosa de cada proposta. Aqui estão as perguntas essenciais que devem ser respondidas para selecionar as ideias mais viáveis e que mais valem a pena para a organização:
+# Perguntas essenciais
+<LigaHighlight />
+Ter uma resposta clara para a pergunta <spam class="text-highlight">"Quais problemas ou oportunidades queremos abordar com a IA</spam>?" é essencial para o sucesso da implementação dessa tecnologia na organização. No entanto, para evitar vieses na escolha dos projetos, é importante realizar um processo de seleção e priorização baseado em critérios que maximizem o impacto e o retorno sobre o investimento.
+
+Para facilitar esse processo, sugiro encapsular esses critérios no conceito de "Perguntas Essenciais" — questões fundamentais que devem ser aplicadas a cada projeto para verificar se a ideia está alinhada com a estratégia organizacional e se realmente resolve um problema específico.
+
+A seguir, apresento um conjunto de "Perguntas Essenciais" que podem ser usadas para selecionar as ideias mais viáveis e que trarão maior benefício à organização:
 
 ### 1. **Qual é o objetivo estratégico da ideia?**
    - **Alinha-se com a estratégia empresarial?**: A ideia contribui diretamente para os objetivos estratégicos da empresa, como aumento de receita, redução de custos, melhoria na eficiência operacional ou inovação de produtos e serviços?
@@ -41,8 +46,8 @@ Para filtrar as ideias levantadas para o uso da IA na empresa, é essencial que 
    - **Experiência do cliente**: Como a solução afetará a experiência do cliente?
    - **Valor agregado**: A proposta cria valor significativo para os clientes da empresa?
 
-### 10. **Quais são as alternativas e benchmarking?**
+### 10. **Quais são as alternativas e *benchmarking*?**
    - **Análise comparativa**: Existem outras soluções no mercado que oferecem resultados semelhantes? Como a proposta se compara a essas alternativas?
    - **Lições aprendidas**: Quais são as lições aprendidas de outras implementações de IA na indústria ou em setores similares?
 
-Responder a essas perguntas permitirá aos CEOs e líderes executivos filtrar e priorizar as ideias que são não apenas viáveis, mas que também oferecem o maior valor estratégico para a organização.
+Responder a essas perguntas permitirá que CEOs e líderes executivos filtrem e priorizem as ideias que não apenas são viáveis, mas que também oferecem o maior valor estratégico para a organização.
